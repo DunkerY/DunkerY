@@ -8,7 +8,7 @@ Me chamo Guilherme Dunker,
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-🐍 Conhecimentos em Python, HTML, CSS e JavaScript
+🐍 Conhecimentos aprofundados em Python, HTML, CSS e JavaScript
 
 🚀 Em constante aprendizado e construção de projetos
 
